@@ -5,7 +5,11 @@ weight: 1
 chapter: false
 pre: " <b> 1. </b> "
 ---
+This page presents the **8-week internship worklog** completed during the **AWS FCAJ** program. It summarizes the learning progress, hands-on labs, and project development activities carried out throughout the internship. Each week records the tasks performed, the knowledge acquired, the practical skills developed, and the outcomes achieved.
 
+During the **first five weeks**, the focus was on learning and practicing core AWS services, including **AWS IAM, Amazon VPC, Amazon EC2, Amazon EBS, Amazon S3, Amazon RDS, Amazon DynamoDB, AWS Lambda, Amazon CloudWatch, and AWS CloudTrail**. The **last three weeks** were dedicated to project development, including requirement analysis, solution architecture design, implementation, system integration, testing, optimization, and documentation based on the AWS Study Group project requirements.
+
+## Weekly Worklog Overview 
 **Week 1:** [Getting Started with AWS Cloud, IAM, and Amazon VPC](1.1-week1/)
 
 **Week 2:** [Hands-on Practice with AWS IAM, AWS CLI, and Amazon VPC](1.2-week2/)
