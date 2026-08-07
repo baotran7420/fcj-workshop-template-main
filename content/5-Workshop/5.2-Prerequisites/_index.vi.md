@@ -24,19 +24,19 @@ Workshop này bao gồm các bước chuẩn bị sau:
    - Tạo hoặc sử dụng tài khoản AWS.
    - Lựa chọn Region để triển khai.
 
-   👉 **Tiếp tục:** [AWS Account & Region](../5.2.1-aws-account-region)
+   [AWS Account & Region](./5.2.1-aws-account-region)
 
 2. **Required Tools**
    - Cài đặt Git.
    - Cài đặt SSH Client.
    - Cài đặt Visual Studio Code.
 
-   👉 **Tiếp tục:** [Required Tools](../5.2.2-required-tools)
+    [Required Tools](./5.2.2-required-tools)
 
 3. **IAM Configuration**
    - Tạo IAM User.
    - Cấu hình quyền theo nguyên tắc Least Privilege.
    - Thiết lập bảo mật trước khi triển khai.
 
-   👉 **Tiếp tục:** [IAM Configuration](../5.2.3-iam-configuration)
+    [IAM Configuration](./5.2.3-iam-configuration)
 
