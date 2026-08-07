@@ -171,7 +171,17 @@ Ngoài việc học hỏi về mặt kỹ thuật, tôi còn có cơ hội lắn
 
 ## 8. Một số hình ảnh khi tham gia sự kiện
 
-*(Chèn hình ảnh buổi Showcase, phần trình bày của các nhóm hoặc hình ảnh tổng kết chương trình Agentic AI Build Week.)*
+![Khai mạc chương trình](image1.jpg)
+
+*Hình 1. Phiên khai mạc sự kiện FCAJ x Agentic AI Build Week.*
+
+![Các nhóm trình bày dự án](image2.png)
+
+*Hình 2. Các nhóm giới thiệu và trình bày các giải pháp Agentic AI.*
+
+![Chụp ảnh lưu niệm](image3.jpg)
+
+*Hình 3. Hình ảnh lưu niệm tại sự kiện FCAJ x Agentic AI Build Week.*
 
 ---
 

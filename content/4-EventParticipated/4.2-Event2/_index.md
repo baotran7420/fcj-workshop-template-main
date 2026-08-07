@@ -1,124 +1,168 @@
 ---
 title: "Event 2"
-date: 2024-01-01
+date: 2026-08-07
 weight: 1
 chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
+# Event Report: "FCAJ x Agentic AI Build Week"
 
+## Purpose of the Event
 
-# Summary Report: “GenAI-powered App-DB Modernization workshop”
+FCAJ x Agentic AI Build Week was the **Showcase** session that concluded the Agentic AI Build Week program, where participating teams presented the AI solutions they had developed throughout the project. Rather than being a competition, the event focused on sharing practical experiences, inspiring the community, and demonstrating how Agentic AI can be applied to solve real-world business problems.
 
-### Event Objectives
+The objectives of the event were:
 
-- Share best practices in modern application design
-- Introduce Domain-Driven Design (DDD) and event-driven architecture
-- Provide guidance on selecting the right compute services
-- Present AI tools to support the development lifecycle
+- Showcase Agentic AI projects developed during the Build Week program.
+- Share practical experiences in building AI-powered applications within a limited timeframe.
+- Inspire the community through real-world AI solutions.
+- Introduce participants to the latest trends in Agentic AI and AWS technologies.
+- Create networking opportunities between AWS experts, mentors, and the AI community.
 
-### Speakers
+---
 
-- **Jignesh Shah** – Director, Open Source Databases
-- **Erica Liu** – Sr. GTM Specialist, AppMod
-- **Fabrianne Effendi** – Assc. Specialist SA, Serverless Amazon Web Services
+## Speakers
 
-### Key Highlights
+- **Mr. Nguyen Gia Hung** – Head of Solution Architect, AWS Vietnam.
+- **Mr. Joseph Marazota** – Head of Technology, Asian.
+- **Representatives from FCAJ and the AWS Community** – Shared the program overview and future directions of Agentic AI.
+- **Order AI Team** – Presented an AI-powered order processing solution.
+- **One Team** – Presented the Multient Care project.
+- **Team Plan** – Demonstrated an AI-assisted cloud architecture design solution.
+- **Team 3K** – Introduced an intelligent security monitoring system.
+- **Team Six Piller** – Presented an AI-powered Anti-Money Laundering (AML) solution.
 
-#### Identifying the drawbacks of legacy application architecture
+---
 
-- Long product release cycles → Lost revenue/missed opportunities  
-- Inefficient operations → Reduced productivity, higher costs  
-- Non-compliance with security regulations → Security breaches, loss of reputation  
+## Key Highlights
 
-#### Transitioning to modern application architecture – Microservices
+### 1. Introduction to Agentic AI
 
-Migrating to a modular system — each function is an **independent service** communicating via **events**, built on three core pillars:
+The event began with an introduction to Agentic AI and its growing role in modern enterprises.
 
-- **Queue Management**: Handle asynchronous tasks  
-- **Caching Strategy**: Optimize performance  
-- **Message Handling**: Flexible inter-service communication  
+- Introduced the concepts of Agentic AI and AI Agents.
+- Explained the differences between traditional chatbots and AI Agents.
+- Discussed emerging AI applications across multiple industries.
+- Emphasized the importance of solving real business problems instead of focusing solely on technology.
+- Encouraged participants to embrace the **"Show Up – Build – Pitch – Win"** mindset.
 
-#### Domain-Driven Design (DDD)
+---
 
-- **Four-step method**: Identify domain events → arrange timeline → identify actors → define bounded contexts  
-- **Bookstore case study**: Demonstrates real-world DDD application  
-- **Context mapping**: 7 patterns for integrating bounded contexts  
+### 2. Order AI – Intelligent Order Processing
 
-#### Event-Driven Architecture
+The Order AI team introduced an Agentic AI solution for automating order processing.
 
-- **3 integration patterns**: Publish/Subscribe, Point-to-point, Streaming  
-- **Benefits**: Loose coupling, scalability, resilience  
-- **Sync vs async comparison**: Understanding the trade-offs  
+- Developed AI Agents to automate order management.
+- Personalized customer experiences.
+- Reduced order processing time.
+- Optimized infrastructure costs.
+- Demonstrated AI applications in e-commerce workflows.
 
-#### Compute Evolution
+---
 
-- **Shared Responsibility Model**: EC2 → ECS → Fargate → Lambda  
-- **Serverless benefits**: No server management, auto-scaling, pay-for-value  
-- **Functions vs Containers**: Criteria for appropriate choice  
+### 3. One Team – Multient Care
 
-#### Amazon Q Developer
+One Team presented **Multient Care**, an AI-powered business analytics solution.
 
-- **SDLC automation**: From planning to maintenance  
-- **Code transformation**: Java upgrade, .NET modernization  
-- **AWS Transform agents**: VMware, Mainframe, .NET migration  
+- Collected data from multiple sources.
+- Aggregated and analyzed business data using AI.
+- Supported business decision-making.
+- Reduced manual data processing efforts.
+- Demonstrated AI applications in business intelligence.
 
-### Key Takeaways
+---
 
-#### Design Mindset
+### 4. Team Plan – AI for Cloud Architecture Design
 
-- **Business-first approach**: Always start from the business domain, not the technology  
-- **Ubiquitous language**: Importance of a shared vocabulary between business and tech teams  
-- **Bounded contexts**: Identifying and managing complexity in large systems  
+Team Plan introduced an AI solution for cloud architecture planning.
 
-#### Technical Architecture
+- Assisted in designing cloud architectures.
+- Recommended suitable AWS services.
+- Estimated deployment costs.
+- Automatically generated Infrastructure as Code (IaC).
+- Reduced infrastructure deployment time.
 
-- **Event storming technique**: Practical method for modeling business processes  
-- Use **event-driven communication** instead of synchronous calls  
-- **Integration patterns**: When to use sync, async, pub/sub, streaming  
-- **Compute spectrum**: Criteria for choosing between VM, containers, and serverless  
+---
 
-#### Modernization Strategy
+### 5. Team 3K – Intelligent Security Monitoring
 
-- **Phased approach**: No rushing — follow a clear roadmap  
-- **7Rs framework**: Multiple modernization paths depending on the application  
-- **ROI measurement**: Cost reduction + business agility  
+Team 3K demonstrated an intelligent security monitoring system powered by AI and Computer Vision.
 
-### Applying to Work
+- Applied the YOLO model for object detection.
+- Monitored pedestrian traffic in real time.
+- Detected abnormal situations automatically.
+- Improved surveillance efficiency.
+- Demonstrated Computer Vision applications in security systems.
 
-- **Apply DDD** to current projects: Event storming sessions with business teams  
-- **Refactor microservices**: Use bounded contexts to define service boundaries  
-- **Implement event-driven patterns**: Replace some sync calls with async messaging  
-- **Adopt serverless**: Pilot AWS Lambda for suitable use cases  
-- **Try Amazon Q Developer**: Integrate into the dev workflow to boost productivity  
+---
 
-### Event Experience
+### 6. Team Six Piller – AI-powered Anti-Money Laundering
 
-Attending the **“GenAI-powered App-DB Modernization”** workshop was extremely valuable, giving me a comprehensive view of modernizing applications and databases using advanced methods and tools. Key experiences included:
+Team Six Piller presented an AI solution for detecting suspicious financial transactions.
 
-#### Learning from highly skilled speakers
-- Experts from AWS and major tech organizations shared **best practices** in modern application design.  
-- Through real-world case studies, I gained a deeper understanding of applying **DDD** and **Event-Driven Architecture** to large projects.  
+- Analyzed financial transaction data.
+- Detected abnormal transaction patterns.
+- Reduced false-positive alerts.
+- Improved risk management efficiency.
+- Demonstrated AI applications in the FinTech industry.
 
-#### Hands-on technical exposure
-- Participating in **event storming** sessions helped me visualize how to **model business processes** into domain events.  
-- Learned how to **split microservices** and define **bounded contexts** to manage large-system complexity.  
-- Understood trade-offs between **synchronous and asynchronous communication** and integration patterns like **pub/sub, point-to-point, streaming**.  
+---
 
-#### Leveraging modern tools
-- Explored **Amazon Q Developer**, an AI tool for SDLC support from planning to maintenance.  
-- Learned to **automate code transformation** and pilot serverless with **AWS Lambda** to improve productivity.  
+## What I Learned
 
-#### Networking and discussions
-- The workshop offered opportunities to exchange ideas with experts, peers, and business teams, enhancing the **ubiquitous language** between business and tech.  
-- Real-world examples reinforced the importance of the **business-first approach** rather than focusing solely on technology.  
+### Product Development Mindset
 
-#### Lessons learned
-- Applying DDD and event-driven patterns reduces **coupling** while improving **scalability** and **resilience**.  
-- Modernization requires a **phased approach** with **ROI measurement**; rushing the process can be risky.  
-- AI tools like Amazon Q Developer can significantly **boost productivity** when integrated into the current workflow.  
+- Start with identifying customer **pain points** instead of focusing only on technology.
+- Build an MVP to validate ideas before developing a complete product.
+- Prioritize business value over technical complexity.
+- Learn how to present ideas clearly while emphasizing the value of the solution.
 
-#### Some event photos
-*Add your event photos here*  
+### Technical Knowledge
 
-> Overall, the event not only provided technical knowledge but also helped me reshape my thinking about application design, system modernization, and cross-team collaboration.
+- Gained a deeper understanding of Agentic AI and AI Agents.
+- Learned various AI applications in real-world business scenarios.
+- Understood the process of building an MVP within a limited timeframe.
+- Improved my understanding of deploying AI solutions on AWS.
+- Learned more about Infrastructure as Code (IaC), Computer Vision, and the YOLO model.
+
+### Professional Skills
+
+- Improved teamwork skills in fast-paced projects.
+- Learned project planning and progress management.
+- Practiced task allocation among team members.
+- Enhanced presentation and communication skills.
+- Learned how to receive feedback and continuously improve a product.
+
+---
+
+## 7. Lessons Learned
+
+After attending the event, I gained several valuable lessons:
+
+- Successful AI products should always be built around real customer needs.
+- Building an MVP is an effective approach to validating ideas quickly.
+- Teamwork and communication are essential for completing projects within limited timeframes.
+- Presentation and storytelling skills are just as important as technical implementation.
+- Hands-on experience through hackathons and Build Week programs significantly accelerates learning.
+- Agentic AI has enormous potential to automate complex business workflows across multiple industries.
+
+---
+
+## 8. Event Photos
+
+## 8. Event Photos
+
+![Opening Session](event2-1.png)
+
+![Project Presentation](event2-2.png)
+
+![Group Photo](event2-3.png)
+
+---
+
+## 9. Conclusion
+
+The **FCAJ x Agentic AI Build Week Showcase** was an inspiring event that provided valuable insights into the development of real-world Agentic AI applications. Through the presentations and experience-sharing sessions, I gained a deeper understanding of how AI solutions are designed, developed, and deployed to solve practical business challenges.
+
+Beyond technical knowledge, the event strengthened my problem-solving mindset, teamwork skills, and confidence in participating in technology communities. It also motivated me to continue learning about AWS, Generative AI, and Agentic AI while encouraging me to participate in more practical projects and workshops in the future.
