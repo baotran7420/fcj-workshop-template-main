@@ -1,47 +1,78 @@
 ---
-title: "Sharing and Feedback"
+title: "Feedback and Suggestions"
 date: 2024-01-01
 weight: 7
 chapter: false
-pre: " <b> 7. </b> "
+pre: "<b>7. </b>"
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
 
-> Here, you can freely share your personal opinions about your experience participating in the First Cloud AI Journey program. This will help the FCAJ team improve any shortcomings based on the following aspects:
 
-### Overall Evaluation
+Throughout the **First Cloud Amazon Journey (FCAJ)** program, I had the opportunity to learn, practice, and explore cloud computing technologies on the AWS platform. This experience not only strengthened my technical knowledge but also helped me develop practical skills that are essential for a professional working environment. Below are my personal evaluations and suggestions for improving the program in the future.
 
-**1. Working Environment**  
-The working environment is very friendly and open. FCAJ members are always willing to help whenever I encounter difficulties, even outside working hours. The workspace is tidy and comfortable, helping me focus better. However, I think it would be nice to have more social gatherings or team bonding activities to strengthen relationships.
+## Overall Evaluation
 
-**2. Support from Mentor / Team Admin**  
-The mentor provides very detailed guidance, explains clearly when I don’t understand, and always encourages me to ask questions. The admin team supports administrative tasks, provides necessary documents, and creates favorable conditions for me to work effectively. I especially appreciate that the mentor allows me to try and solve problems myself instead of just giving the answer.
+### 1. Learning and Working Environment
 
-**3. Relevance of Work to Academic Major**  
-The tasks I was assigned align well with the knowledge I learned at university, while also introducing me to new areas I had never encountered before. This allowed me to both strengthen my foundational knowledge and gain practical skills.
+The learning environment at FCAJ is professional, friendly, and collaborative. Mentors and program members are always willing to provide guidance whenever I encounter difficulties during AWS labs or project development. The positive learning atmosphere encouraged me to ask questions, share ideas, and continuously improve my knowledge.
 
-**4. Learning & Skill Development Opportunities**  
-During the internship, I learned many new skills such as using project management tools, teamwork skills, and professional communication in a corporate environment. The mentor also shared valuable real-world experiences that helped me better plan my career path.
+### 2. Mentor and Administration Team Support
 
-**5. Company Culture & Team Spirit**  
-The company culture is very positive: everyone respects each other, works seriously but still keeps things enjoyable. When there are urgent projects, everyone works together and supports one another regardless of their position. This made me feel like a real part of the team, even as an intern.
+The mentors provided detailed guidance and explained technical concepts clearly whenever I had questions. They encouraged independent thinking and problem-solving rather than simply providing answers. The administration team was also very supportive by preparing learning materials, organizing schedules, and promptly assisting participants whenever necessary.
 
-**6. Internship Policies / Benefits**  
-The company provides an internship allowance and offers flexible working hours when needed. In addition, having the opportunity to join internal training sessions is a big plus.
+### 3. Relevance to My Academic Background
+
+The training content aligns well with my Information Technology background while also introducing me to new cloud technologies that I had not previously studied. The structured learning path, combined with hands-on labs and a final project, allowed me to reinforce my academic knowledge and gain valuable practical experience.
+
+### 4. Learning Opportunities and Skill Development
+
+During the program, I improved a variety of technical and professional skills, including:
+
+- Deploying and managing AWS services.
+- Designing cloud solution architectures.
+- Using GitHub for source code management.
+- Writing technical documentation and project reports.
+- Reading and understanding English technical documentation.
+- Developing problem-solving and self-learning skills.
+
+### 5. Community and Team Culture
+
+FCAJ has built a supportive learning community where members actively share knowledge and help one another. Workshops and community activities created opportunities to exchange ideas, discuss technical challenges, and collaborate throughout the learning journey.
+
+### 6. Training Program
+
+The training roadmap is well organized and covers the most important AWS services with strong practical applications. The combination of theoretical lessons, hands-on labs, and project implementation enabled me to understand the complete workflow of developing and deploying cloud-based solutions on AWS.
 
 ---
 
-### Additional Questions
-- What did you find **most satisfying** during your internship?  
-- What do you think the company **should improve** for future interns?  
-- If recommending to a friend, would you **suggest they intern here**? Why or why not?  
+## Additional Questions
+
+### What satisfied you the most during the program?
+
+The most valuable aspect of the program was the opportunity to learn through practical AWS labs and develop a real-world cloud project. The guidance from experienced mentors and the structured learning roadmap significantly improved my confidence in using AWS services.
+
+### What do you think the program could improve?
+
+I would recommend organizing more advanced workshops focused on real-world AWS architectures and providing additional hands-on challenges to strengthen participants' practical experience.
+
+### Would you recommend this program to your friends? Why?
+
+Yes. I would highly recommend the **First Cloud Amazon Journey** program because it provides a well-structured learning path, practical AWS experience, supportive mentors, and an excellent opportunity to develop cloud computing skills.
 
 ---
 
-### Suggestions & Expectations
-- Do you have any suggestions to improve the internship experience?  
-- Would you like to continue this program in the future?  
-- Any other comments (free sharing):
+## Suggestions and Future Expectations
+
+### Do you have any suggestions to improve the learning experience?
+
+- Organize more workshops on advanced AWS architectures and real-world projects.
+- Provide additional hands-on labs covering advanced cloud services.
+- Increase networking and knowledge-sharing sessions between mentors and participants.
+
+### Would you like to continue participating in future FCAJ programs?
+
+Yes. I would be interested in joining more advanced FCAJ programs to deepen my knowledge of AWS, DevOps, Artificial Intelligence, and modern cloud technologies.
+
+### Additional Comments
+
+I appreciate the efforts of the FCAJ team in building a high-quality learning program for the community. I hope the program continues to expand with more practical projects, advanced technical content, and opportunities for participants to collaborate with mentors and industry professionals.
