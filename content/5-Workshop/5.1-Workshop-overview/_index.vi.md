@@ -1,5 +1,5 @@
 ---
-title: "Overview & Architecture"
+title: "Tổng quan và kiến trúc"
 weight: 1
 chapter: false
 pre: "<b>5.1.</b>"
