@@ -15,10 +15,10 @@ pre: " <b> 1.4. </b> "
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 2 | - Learn about Amazon Simple Storage Service (Amazon S3)<br>&emsp;+ Object Storage concept<br>&emsp;+ Bucket and Object<br>&emsp;+ Storage Classes<br>&emsp;+ Bucket Policy | 07/13/2026 | 07/13/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - Practice Amazon S3<br>&emsp;+ Create a Bucket<br>&emsp;+ Upload and Download Objects<br>&emsp;+ Manage Buckets<br>&emsp;+ Static Website Hosting | 07/14/2026 | 07/14/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 4 | - Learn AWS Lambda<br>&emsp;+ Serverless Computing concept<br>&emsp;+ Lambda Function<br>&emsp;+ Event Trigger<br>&emsp;+ Practice creating a Lambda Function | 07/15/2026 | 07/15/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 5 | - Learn Amazon Relational Database Service (Amazon RDS)<br>&emsp;+ Relational Database concept<br>&emsp;+ Database Engine<br>&emsp;+ Create an RDS Instance<br>&emsp;+ Connect to RDS | 07/16/2026 | 07/16/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 2 | - Learn about Amazon Simple Storage Service (Amazon S3)<br>&emsp;+ Object Storage concept<br>&emsp;+ Bucket and Object<br>&emsp;+ Storage Classes<br>&emsp;+ Bucket Policy | 07/13/2026 | 07/13/2026 | First Cloud AI Journey Bootcamp |
+| 3 | - Practice Amazon S3<br>&emsp;+ Create a Bucket<br>&emsp;+ Upload and Download Objects<br>&emsp;+ Manage Buckets<br>&emsp;+ Static Website Hosting | 07/14/2026 | 07/14/2026 | https://000057.awsstudygroup.com/ |
+| 4 | - Learn AWS Lambda<br>&emsp;+ Serverless Computing concept<br>&emsp;+ Lambda Function<br>&emsp;+ Event Trigger<br>&emsp;+ Practice creating a Lambda Function | 07/15/2026 | 07/15/2026 | First Cloud AI Journey Bootcamp |
+| 5 | - Learn Amazon Relational Database Service (Amazon RDS)<br>&emsp;+ Relational Database concept<br>&emsp;+ Database Engine<br>&emsp;+ Create an RDS Instance<br>&emsp;+ Connect to RDS | 07/16/2026 | 07/16/2026 | First Cloud AI Journey Bootcamp |
 | 6 | - Review the AWS services learned so far<br>&emsp;+ IAM<br>&emsp;+ VPC<br>&emsp;+ EC2<br>&emsp;+ Amazon S3<br>&emsp;+ AWS Lambda<br>&emsp;+ Amazon RDS<br>- Summarize the AWS learning phase and prepare to start project development | 07/17/2026 | 07/17/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Week 4 Outcomes:

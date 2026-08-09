@@ -17,10 +17,10 @@ pre: " <b> 1.3. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Tìm hiểu tổng quan về Amazon EC2<br>&emsp;+ Khái niệm EC2<br>&emsp;+ Use Cases<br>&emsp;+ Instance Types<br>&emsp;+ Amazon Machine Image (AMI) | 06/07/2026 | 06/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - Tìm hiểu các thành phần của EC2<br>&emsp;+ Key Pair<br>&emsp;+ Security Group<br>&emsp;+ Elastic IP<br>&emsp;+ User Data<br>&emsp;+ Amazon Elastic Block Store (Amazon EBS) | 07/07/2026 | 07/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 4 | - Thực hành tạo Amazon EC2 Instance trong VPC<br>&emsp;+ Chọn VPC và Subnet<br>&emsp;+ Cấu hình Security Group<br>&emsp;+ Tạo Key Pair | 08/07/2026 | 08/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 5 | - Thực hành kết nối EC2<br>&emsp;+ EC2 Instance Connect<br>&emsp;+ SSH Client<br>&emsp;+ Tạo, gắn và quản lý Amazon EBS Volume | 09/07/2026 | 09/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 2 | - Tìm hiểu tổng quan về Amazon EC2<br>&emsp;+ Khái niệm EC2<br>&emsp;+ Use Cases<br>&emsp;+ Instance Types<br>&emsp;+ Amazon Machine Image (AMI) | 06/07/2026 | 06/07/2026 | First Cloud AI Journey Bootcamp |
+| 3 | - Tìm hiểu các thành phần của EC2<br>&emsp;+ Key Pair<br>&emsp;+ Security Group<br>&emsp;+ Elastic IP<br>&emsp;+ User Data<br>&emsp;+ Amazon Elastic Block Store (Amazon EBS) | 07/07/2026 | 07/07/2026 | First Cloud AI Journey Bootcamp |
+| 4 | - Thực hành tạo Amazon EC2 Instance trong VPC<br>&emsp;+ Chọn VPC và Subnet<br>&emsp;+ Cấu hình Security Group<br>&emsp;+ Tạo Key Pair | 08/07/2026 | 08/07/2026 | https://000003.awsstudygroup.com/4-createec2server/ |
+| 5 | - Thực hành kết nối EC2<br>&emsp;+ EC2 Instance Connect<br>&emsp;+ SSH Client<br>&emsp;+ Tạo, gắn và quản lý Amazon EBS Volume | 09/07/2026 | 09/07/2026 | https://000003.awsstudygroup.com/ |
 | 6 | - Ôn tập Amazon EC2 và Amazon EBS<br>- Hoàn thành các bài Lab về EC2 và EBS<br>- Tổng kết kiến thức tuần 3 | 10/07/2026 | 10/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Kết quả sau tuần 3

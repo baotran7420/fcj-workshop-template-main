@@ -15,11 +15,11 @@ pre: " <b> 1.7. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Khởi tạo dự án<br>&emsp;+ Xây dựng cấu trúc mã nguồn<br>&emsp;+ Triển khai các tài nguyên AWS theo kiến trúc đã thiết kế | 03/08/2026 | 03/08/2026 | GitHub, AWS Documentation |
-| 3 | - Phát triển các chức năng chính của hệ thống<br>&emsp;+ Kết nối các dịch vụ AWS<br>&emsp;+ Xử lý luồng dữ liệu giữa các thành phần | 04/08/2026 | 04/08/2026 | AWS Documentation |
-| 4 | - Hoàn thiện chức năng<br>&emsp;+ Kiểm tra luồng xử lý dữ liệu<br>&emsp;+ Hoàn thiện giao tiếp giữa các dịch vụ AWS | 05/08/2026 | 05/08/2026 | AWS Documentation |
-| 5 | - Kiểm thử chức năng<br>&emsp;+ Kiểm tra các chức năng chính<br>&emsp;+ Kiểm tra dữ liệu đầu vào và đầu ra<br>&emsp;+ Khắc phục lỗi phát sinh | 06/08/2026 | 06/08/2026 | AWS Documentation |
-| 6 | - Hoàn thiện quy trình triển khai<br>&emsp;+ Cập nhật tài liệu hướng dẫn triển khai (Step-by-step)<br>&emsp;+ Rà soát tiến độ và chuẩn bị kiểm thử tổng thể | 07/08/2026 | 07/08/2026 | AWS Documentation |
+| 2 | - Khởi tạo dự án<br>&emsp;+ Xây dựng cấu trúc mã nguồn<br>&emsp;+ Triển khai các tài nguyên AWS theo kiến trúc đã thiết kế | 03/08/2026 | 03/08/2026 | GitHub, https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1|
+| 3 | - Phát triển các chức năng chính của hệ thống<br>&emsp;+ Kết nối các dịch vụ AWS<br>&emsp;+ Xử lý luồng dữ liệu giữa các thành phần | 04/08/2026 | 04/08/2026 | https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1 |
+| 4 | - Hoàn thiện chức năng<br>&emsp;+ Kiểm tra luồng xử lý dữ liệu<br>&emsp;+ Hoàn thiện giao tiếp giữa các dịch vụ AWS | 05/08/2026 | 05/08/2026 | https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1 |
+| 5 | - Kiểm thử chức năng<br>&emsp;+ Kiểm tra các chức năng chính<br>&emsp;+ Kiểm tra dữ liệu đầu vào và đầu ra<br>&emsp;+ Khắc phục lỗi phát sinh | 06/08/2026 | 06/08/2026 | https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1 |
+| 6 | - Hoàn thiện quy trình triển khai<br>&emsp;+ Cập nhật tài liệu hướng dẫn triển khai (Step-by-step)<br>&emsp;+ Rà soát tiến độ và chuẩn bị kiểm thử tổng thể | 07/08/2026 | 07/08/2026 |  |
 
 ### Kết quả sau tuần 7:
 

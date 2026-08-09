@@ -17,10 +17,10 @@ pre: " <b> 1.3. </b> "
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 2 | - Learn the Amazon EC2 overview<br>&emsp;+ EC2 concept<br>&emsp;+ Use Cases<br>&emsp;+ Instance Types<br>&emsp;+ Amazon Machine Image (AMI) | 07/06/2026 | 07/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - Learn EC2 components<br>&emsp;+ Key Pair<br>&emsp;+ Security Group<br>&emsp;+ Elastic IP<br>&emsp;+ User Data<br>&emsp;+ Amazon Elastic Block Store (Amazon EBS) | 07/07/2026 | 07/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 4 | - Practice launching an Amazon EC2 instance in a VPC<br>&emsp;+ Select VPC and Subnet<br>&emsp;+ Configure Security Group<br>&emsp;+ Create Key Pair | 07/08/2026 | 07/08/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 5 | - Practice connecting to EC2<br>&emsp;+ EC2 Instance Connect<br>&emsp;+ SSH Client<br>&emsp;+ Create, attach, and manage Amazon EBS Volume | 07/09/2026 | 07/09/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 2 | - Learn the Amazon EC2 overview<br>&emsp;+ EC2 concept<br>&emsp;+ Use Cases<br>&emsp;+ Instance Types<br>&emsp;+ Amazon Machine Image (AMI) | 07/06/2026 | 07/06/2026 | First Cloud AI Journey Bootcamp |
+| 3 | - Learn EC2 components<br>&emsp;+ Key Pair<br>&emsp;+ Security Group<br>&emsp;+ Elastic IP<br>&emsp;+ User Data<br>&emsp;+ Amazon Elastic Block Store (Amazon EBS) | 07/07/2026 | 07/07/2026 | First Cloud AI Journey Bootcamp |
+| 4 | - Practice launching an Amazon EC2 instance in a VPC<br>&emsp;+ Select VPC and Subnet<br>&emsp;+ Configure Security Group<br>&emsp;+ Create Key Pair | 07/08/2026 | 07/08/2026 | https://000003.awsstudygroup.com/4-createec2server/ |
+| 5 | - Practice connecting to EC2<br>&emsp;+ EC2 Instance Connect<br>&emsp;+ SSH Client<br>&emsp;+ Create, attach, and manage Amazon EBS Volume | 07/09/2026 | 07/09/2026 | https://000003.awsstudygroup.com/ |
 | 6 | - Review Amazon EC2 and Amazon EBS<br>- Complete EC2 and EBS labs<br>- Summarize Week 3 knowledge | 07/10/2026 | 07/10/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Week 3 Outcomes:

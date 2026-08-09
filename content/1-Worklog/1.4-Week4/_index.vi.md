@@ -15,10 +15,10 @@ pre: " <b> 1.4. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Tìm hiểu Amazon Simple Storage Service (Amazon S3)<br>&emsp;+ Khái niệm Object Storage<br>&emsp;+ Bucket và Object<br>&emsp;+ Storage Classes<br>&emsp;+ Bucket Policy | 13/07/2026 | 13/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - Thực hành Amazon S3<br>&emsp;+ Tạo Bucket<br>&emsp;+ Upload và Download Object<br>&emsp;+ Quản lý Bucket<br>&emsp;+ Static Website Hosting | 14/07/2026 | 14/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 4 | - Tìm hiểu AWS Lambda<br>&emsp;+ Khái niệm Serverless Computing<br>&emsp;+ Lambda Function<br>&emsp;+ Event Trigger<br>&emsp;+ Thực hành tạo Lambda Function | 15/07/2026 | 15/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 5 | - Tìm hiểu Amazon Relational Database Service (Amazon RDS)<br>&emsp;+ Khái niệm Relational Database<br>&emsp;+ Database Engine<br>&emsp;+ Tạo RDS Instance<br>&emsp;+ Kết nối đến RDS | 16/07/2026 | 16/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 2 | - Tìm hiểu Amazon Simple Storage Service (Amazon S3)<br>&emsp;+ Khái niệm Object Storage<br>&emsp;+ Bucket và Object<br>&emsp;+ Storage Classes<br>&emsp;+ Bucket Policy | 13/07/2026 | 13/07/2026 | First Cloud AI Journey Bootcamp |
+| 3 | - Thực hành Amazon S3<br>&emsp;+ Tạo Bucket<br>&emsp;+ Upload và Download Object<br>&emsp;+ Quản lý Bucket<br>&emsp;+ Static Website Hosting | 14/07/2026 | 14/07/2026 | https://000057.awsstudygroup.com/ |
+| 4 | - Tìm hiểu AWS Lambda<br>&emsp;+ Khái niệm Serverless Computing<br>&emsp;+ Lambda Function<br>&emsp;+ Event Trigger<br>&emsp;+ Thực hành tạo Lambda Function | 15/07/2026 | 15/07/2026 | First Cloud AI Journey Bootcamp |
+| 5 | - Tìm hiểu Amazon Relational Database Service (Amazon RDS)<br>&emsp;+ Khái niệm Relational Database<br>&emsp;+ Database Engine<br>&emsp;+ Tạo RDS Instance<br>&emsp;+ Kết nối đến RDS | 16/07/2026 | 16/07/2026 | First Cloud AI Journey Bootcamp |
 | 6 | - Ôn tập các dịch vụ AWS đã học<br>&emsp;+ IAM<br>&emsp;+ VPC<br>&emsp;+ EC2<br>&emsp;+ Amazon S3<br>&emsp;+ AWS Lambda<br>&emsp;+ Amazon RDS<br>- Tổng kết giai đoạn học AWS và chuẩn bị bắt đầu phát triển dự án | 17/07/2026 | 17/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Kết quả sau tuần 4

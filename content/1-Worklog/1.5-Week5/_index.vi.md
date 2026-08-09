@@ -15,10 +15,10 @@ pre: " <b> 1.5. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Tìm hiểu AWS Lambda<br>&emsp;+ Khái niệm Serverless Computing<br>&emsp;+ Lambda Function<br>&emsp;+ Event Source<br>&emsp;+ IAM Role cho Lambda | 20/07/2026 | 20/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - Thực hành AWS Lambda<br>&emsp;+ Tạo Lambda Function<br>&emsp;+ Test Function<br>&emsp;+ Quản lý phiên bản (Version) và Alias | 21/07/2026 | 21/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 4 | - Tìm hiểu Amazon CloudWatch<br>&emsp;+ Metrics<br>&emsp;+ Logs<br>&emsp;+ Dashboard<br>&emsp;+ Alarm | 22/07/2026 | 22/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 5 | - Tìm hiểu AWS CloudTrail<br>&emsp;+ Event History<br>&emsp;+ Theo dõi hoạt động người dùng và tài nguyên AWS<br>&emsp;+ Audit và Logging | 23/07/2026 | 23/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 2 | - Tìm hiểu AWS Lambda<br>&emsp;+ Khái niệm Serverless Computing<br>&emsp;+ Lambda Function<br>&emsp;+ Event Source<br>&emsp;+ IAM Role cho Lambda | 20/07/2026 | 20/07/2026 |First Cloud AI Journey Bootcamp |
+| 3 | - Thực hành AWS Lambda<br>&emsp;+ Tạo Lambda Function<br>&emsp;+ Test Function<br>&emsp;+ Quản lý phiên bản (Version) và Alias | 21/07/2026 | 21/07/2026 | https://000022.awsstudygroup.com/ |
+| 4 | - Tìm hiểu Amazon CloudWatch<br>&emsp;+ Metrics<br>&emsp;+ Logs<br>&emsp;+ Dashboard<br>&emsp;+ Alarm | 22/07/2026 | 22/07/2026 | First Cloud AI Journey Bootcamp |
+| 5 | - Tìm hiểu AWS CloudTrail<br>&emsp;+ Event History<br>&emsp;+ Theo dõi hoạt động người dùng và tài nguyên AWS<br>&emsp;+ Audit và Logging | 23/07/2026 | 23/07/2026 | First Cloud AI Journey Bootcamp |
 | 6 | - Ôn tập các dịch vụ AWS đã học<br>&emsp;+ IAM<br>&emsp;+ VPC<br>&emsp;+ EC2<br>&emsp;+ Amazon EBS<br>&emsp;+ Amazon S3<br>&emsp;+ Amazon RDS<br>&emsp;+ Amazon DynamoDB<br>&emsp;+ AWS Lambda<br>&emsp;+ Amazon CloudWatch<br>&emsp;+ AWS CloudTrail<br>- Tổng kết giai đoạn học AWS | 24/07/2026 | 24/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Kết quả sau tuần 5
