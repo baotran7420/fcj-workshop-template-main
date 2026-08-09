@@ -64,7 +64,7 @@ The test results are evaluated based on the following criteria:
 
 > **Figure 5.4.1. AI Chat functional testing result and document source citation.**
 
-> ![Figure 5.4.1](/images/5.4.1.png)
+> ![Figure 5.4.1](/images/5.4.1.jpg)
 
 ---
 

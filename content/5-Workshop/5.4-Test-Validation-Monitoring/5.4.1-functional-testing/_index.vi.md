@@ -64,7 +64,7 @@ Kết quả được đánh giá dựa trên các tiêu chí:
 
 > **Hình 5.4.1. Kết quả kiểm thử chức năng AI Chat và trích dẫn nguồn tài liệu.**
 
-> ![Hình 5.4.1](/images/5.4.1.png)
+> ![Hình 5.4.1](/images/5.4.1.jpg)
 
 ---
 

@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://main.dz6bd3dk284em.amplifyapp.com/"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 
@@ -21,7 +21,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
 [Languages.en]
-title = "Documentation for Hugo Learn Theme"
+title = "AI Learning Assistant Platform"
 weight = 1
 languageName = "English"
 
