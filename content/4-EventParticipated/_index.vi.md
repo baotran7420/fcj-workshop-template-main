@@ -11,7 +11,7 @@ Trong quá trình thực tập tại **First Cloud AI Journey (FCAJ)**, mình đ
 
 Thông qua các sự kiện này, mình không chỉ được cập nhật những công nghệ mới mà còn hiểu rõ hơn cách các doanh nghiệp ứng dụng AI và AWS vào thực tế, từ đó có thêm nhiều kinh nghiệm để áp dụng vào quá trình học tập và thực hiện dự án cá nhân.
 
-## Event 1
+## [Event 1](4.1-Event1)
 
 - **Tên sự kiện:** FCAJ Community Day - June 2026
 - **Thời gian:** 09:00, ngày **27/06/2026**
@@ -24,7 +24,7 @@ Thông qua sự kiện, mình đã hiểu rõ hơn về kiến trúc Voice AI, c
 
 ---
 
-## Event 2
+## [Event 2](4.2-Event2)
 
 - **Tên sự kiện:** FCAJ x Agentic AI Build Week Showcase
 - **Thời gian:** 09:00, ngày **25/07/2026**
@@ -37,7 +37,7 @@ Qua sự kiện, mình được tiếp cận nhiều giải pháp Agentic AI ứ
 
 ---
 
-## Event 3
+## [Event 3](4.3-Event3)
 
 - **Tên sự kiện:** AgentForge Workshop – Day 2: Personalization, Evaluation & Optimization
 - **Thời gian:** 09:00 – 11:00, ngày **08/08/2026**
