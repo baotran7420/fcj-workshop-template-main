@@ -18,16 +18,16 @@ After completing these prerequisites, you will be ready to deploy the infrastruc
 
 This workshop consists of the following preparation steps:
 
- **[1. AWS Account & Region](./5.2.1-aws-account-region)**
+ ### [1. AWS Account & Region](./5.2.1-aws-account-region)
    - Create or use an existing AWS account.
    - Select the AWS Region for deployment.
 
- **[2. Required Tools](./5.2.2-required-tools)**
+ ### [2. Required Tools](./5.2.2-required-tools)
    - Install Git.
    - Install an SSH Client.
    - Install Visual Studio Code.
 
- **[3. IAM Configuration](./5.2.3-iam-configuration)**
+ ### [3. IAM Configuration](./5.2.3-iam-configuration)
    - Create IAM Users.
    - Configure access permissions for deployment.
    - Apply AWS security best practices before deployment.
