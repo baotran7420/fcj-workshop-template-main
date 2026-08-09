@@ -1,5 +1,5 @@
 ---
-title: "Overview & Architecture"
+title: " Overview & Architecture"
 weight: 1
 chapter: false
 pre: "<b>5.1.</b>"
