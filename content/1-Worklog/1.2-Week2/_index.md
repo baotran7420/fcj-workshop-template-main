@@ -16,10 +16,10 @@ pre: " <b> 1.2. </b> "
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 2 | - Create an AWS Free Tier account<br>- Create an IAM User and configure MFA<br>- Sign in with the IAM User<br>- Learn about AWS Billing, Budgets, and Cost Explorer | 06/29/2026 | 06/29/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - Install AWS CLI<br>- Configure AWS CLI <br>- Run basic AWS CLI commands<br>- Get familiar with Amazon Bedrock Playground | 06/30/2026 | 06/30/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 4 | - Practice Amazon VPC<br>&emsp;+ Create VPC<br>&emsp;+ Create Public and Private Subnets<br>&emsp;+ Create Internet Gateway<br>&emsp;+ Configure Route Table | 07/01/2026 | 07/01/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 5 | - Practice VPC components<br>&emsp;+ Network ACL<br>&emsp;+ Security Group<br>&emsp;+ NAT Gateway (if included in the lesson)<br>- Test connectivity inside the VPC | 07/02/2026 | 07/02/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 2 | - Create an AWS Free Tier account<br>- Create an IAM User and configure MFA<br>- Sign in with the IAM User<br>- Learn about AWS Billing, Budgets, and Cost Explorer | 06/29/2026 | 06/29/2026 | https://000001.awsstudygroup.com/|
+| 3 | - Install AWS CLI<br>- Configure AWS CLI <br>- Run basic AWS CLI commands<br>- Get familiar with Amazon Bedrock Playground | 06/30/2026 | 06/30/2026 | https://000011.awsstudygroup.com/ |
+| 4 | - Practice Amazon VPC<br>&emsp;+ Create VPC<br>&emsp;+ Create Public and Private Subnets<br>&emsp;+ Create Internet Gateway<br>&emsp;+ Configure Route Table | 07/01/2026 | 07/01/2026 | https://000003.awsstudygroup.com/ |
+| 5 | - Practice VPC components<br>&emsp;+ Network ACL<br>&emsp;+ Security Group<br>&emsp;+ NAT Gateway (if included in the lesson)<br>- Test connectivity inside the VPC | 07/02/2026 | 07/02/2026 | https://000003.awsstudygroup.com/ |
 | 6 | - Summarize and review IAM, AWS CLI, and Amazon VPC<br>- Complete the week's lab exercises<br>- Prepare knowledge for learning Amazon EC2 in the next week | 07/03/2026 | 07/03/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Week 2 Outcomes:

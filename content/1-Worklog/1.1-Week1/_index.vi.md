@@ -19,10 +19,10 @@ pre: " <b> 1.1. </b> "
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
 | 2 | - Làm quen với các thành viên FCAJ<br>- Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập | 22/06/2026 | 22/06/2026 |  |
-| 3 | - Tìm hiểu tổng quan về AWS Cloud<br>&emsp;+ Cloud Computing<br>&emsp;+ AWS Global Infrastructure (Region, Availability Zone, Edge Location)<br>&emsp;+ Các nhóm dịch vụ của AWS (Compute, Storage, Database, Networking, Security)<br>- Tìm hiểu AWS Management Console | 23/06/2026 | 23/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 4 | - Tìm hiểu AWS Identity and Access Management (IAM)<br>&emsp;+ Root User và IAM User<br>&emsp;+ IAM Group<br>&emsp;+ IAM Policy<br>&emsp;+ IAM Role<br>- Tìm hiểu AWS CLI và Cost Optimization | 24/06/2026 | 24/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 5 | - Tìm hiểu Amazon Virtual Private Cloud (VPC)<br>&emsp;+ Khái niệm VPC<br>&emsp;+ CIDR Block<br>&emsp;+ Default VPC và Custom VPC<br>&emsp;+ Public Subnet và Private Subnet | 25/06/2026 | 25/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 6 | - Tìm hiểu các thành phần trong Amazon VPC<br>&emsp;+ Route Table<br>&emsp;+ Internet Gateway (IGW)<br>&emsp;+ NAT Gateway<br>&emsp;+ Security Group<br>&emsp;+ Network ACL<br>- Tổng kết và ôn tập kiến thức tuần 1 | 26/06/2026 | 26/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 3 | - Tìm hiểu tổng quan về AWS Cloud<br>&emsp;+ Cloud Computing<br>&emsp;+ AWS Global Infrastructure (Region, Availability Zone, Edge Location)<br>&emsp;+ Các nhóm dịch vụ của AWS (Compute, Storage, Database, Networking, Security)<br>- Tìm hiểu AWS Management Console | 23/06/2026 | 23/06/2026 | First Cloud AI Journey Bootcamp |
+| 4 | - Tìm hiểu AWS Identity and Access Management (IAM)<br>&emsp;+ Root User và IAM User<br>&emsp;+ IAM Group<br>&emsp;+ IAM Policy<br>&emsp;+ IAM Role<br>- Tìm hiểu AWS CLI và Cost Optimization | 24/06/2026 | 24/06/2026 | First Cloud AI Journey Bootcamp |
+| 5 | - Tìm hiểu Amazon Virtual Private Cloud (VPC)<br>&emsp;+ Khái niệm VPC<br>&emsp;+ CIDR Block<br>&emsp;+ Default VPC và Custom VPC<br>&emsp;+ Public Subnet và Private Subnet | 25/06/2026 | 25/06/2026 | First Cloud AI Journey Bootcamp |
+| 6 | - Tìm hiểu các thành phần trong Amazon VPC<br>&emsp;+ Route Table<br>&emsp;+ Internet Gateway (IGW)<br>&emsp;+ NAT Gateway<br>&emsp;+ Security Group<br>&emsp;+ Network ACL<br>- Tổng kết và ôn tập kiến thức tuần 1 | 26/06/2026 | 26/06/2026 |First Cloud AI Journey Bootcamp |
 
 ### Kết quả sau tuần 1
 

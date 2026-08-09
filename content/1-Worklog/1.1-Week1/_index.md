@@ -18,10 +18,10 @@ pre: " <b> 1.1. </b> "
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
 | 2 | - Get acquainted with the FCAJ members<br>- Read and note the internship unit rules and regulations | 06/22/2026 | 06/22/2026 |  |
-| 3 | - Learn the overview of AWS Cloud<br>&emsp;+ Cloud Computing<br>&emsp;+ AWS Global Infrastructure (Region, Availability Zone, Edge Location)<br>&emsp;+ AWS service groups (Compute, Storage, Database, Networking, Security)<br>- Learn AWS Management Console | 06/23/2026 | 06/23/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 4 | - Learn AWS Identity and Access Management (IAM)<br>&emsp;+ Root User and IAM User<br>&emsp;+ IAM Group<br>&emsp;+ IAM Policy<br>&emsp;+ IAM Role<br>- Learn AWS CLI and Cost Optimization | 06/24/2026 | 06/24/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 5 | - Learn Amazon Virtual Private Cloud (VPC)<br>&emsp;+ VPC concept<br>&emsp;+ CIDR Block<br>&emsp;+ Default VPC and Custom VPC<br>&emsp;+ Public Subnet and Private Subnet | 06/25/2026 | 06/25/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 6 | - Learn the components in Amazon VPC<br>&emsp;+ Route Table<br>&emsp;+ Internet Gateway (IGW)<br>&emsp;+ NAT Gateway<br>&emsp;+ Security Group<br>&emsp;+ Network ACL<br>- Summarize and review Week 1 knowledge | 06/26/2026 | 06/26/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 3 | - Learn the overview of AWS Cloud<br>&emsp;+ Cloud Computing<br>&emsp;+ AWS Global Infrastructure (Region, Availability Zone, Edge Location)<br>&emsp;+ AWS service groups (Compute, Storage, Database, Networking, Security)<br>- Learn AWS Management Console | 06/23/2026 | 06/23/2026 | First Cloud AI Journey Bootcamp |
+| 4 | - Learn AWS Identity and Access Management (IAM)<br>&emsp;+ Root User and IAM User<br>&emsp;+ IAM Group<br>&emsp;+ IAM Policy<br>&emsp;+ IAM Role<br>- Learn AWS CLI and Cost Optimization | 06/24/2026 | 06/24/2026 | First Cloud AI Journey Bootcamp |
+| 5 | - Learn Amazon Virtual Private Cloud (VPC)<br>&emsp;+ VPC concept<br>&emsp;+ CIDR Block<br>&emsp;+ Default VPC and Custom VPC<br>&emsp;+ Public Subnet and Private Subnet | 06/25/2026 | 06/25/2026 | First Cloud AI Journey Bootcamp |
+| 6 | - Learn the components in Amazon VPC<br>&emsp;+ Route Table<br>&emsp;+ Internet Gateway (IGW)<br>&emsp;+ NAT Gateway<br>&emsp;+ Security Group<br>&emsp;+ Network ACL<br>- Summarize and review Week 1 knowledge | 06/26/2026 | 06/26/2026 | First Cloud AI Journey Bootcamp |
 
 ### Week 1 Achievements:
 

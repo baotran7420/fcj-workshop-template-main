@@ -16,10 +16,10 @@ pre: " <b> 1.2. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Tạo AWS Free Tier Account<br>- Tạo IAM User và cấu hình MFA<br>- Đăng nhập bằng IAM User<br>- Tìm hiểu AWS Billing, Budgets và Cost Explorer | 29/06/2026 | 29/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - Cài đặt AWS CLI<br>- Cấu hình AWS CLI <br>- Thực hiện các lệnh AWS CLI cơ bản<br>- Làm quen với Amazon Bedrock Playground | 30/06/2026 | 30/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 4 | - Thực hành Amazon VPC<br>&emsp;+ Tạo VPC<br>&emsp;+ Tạo Public và Private Subnet<br>&emsp;+ Tạo Internet Gateway<br>&emsp;+ Cấu hình Route Table | 01/07/2026 | 01/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 5 | - Thực hành các thành phần của VPC<br>&emsp;+ Network ACL<br>&emsp;+ Security Group<br>&emsp;+ NAT Gateway (nếu có trong bài học)<br>- Kiểm tra kết nối trong VPC | 02/07/2026 | 02/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 2 | - Tạo AWS Free Tier Account<br>- Tạo IAM User và cấu hình MFA<br>- Đăng nhập bằng IAM User<br>- Tìm hiểu AWS Billing, Budgets và Cost Explorer | 29/06/2026 | 29/06/2026 | https://000001.awsstudygroup.com/ |
+| 3 | - Cài đặt AWS CLI<br>- Cấu hình AWS CLI <br>- Thực hiện các lệnh AWS CLI cơ bản<br>- Làm quen với Amazon Bedrock Playground | 30/06/2026 | 30/06/2026 |https://000011.awsstudygroup.com/ |
+| 4 | - Thực hành Amazon VPC<br>&emsp;+ Tạo VPC<br>&emsp;+ Tạo Public và Private Subnet<br>&emsp;+ Tạo Internet Gateway<br>&emsp;+ Cấu hình Route Table | 01/07/2026 | 01/07/2026 | https://000003.awsstudygroup.com/ |
+| 5 | - Thực hành các thành phần của VPC<br>&emsp;+ Network ACL<br>&emsp;+ Security Group<br>&emsp;+ NAT Gateway (nếu có trong bài học)<br>- Kiểm tra kết nối trong VPC | 02/07/2026 | 02/07/2026 |https://000003.awsstudygroup.com/ |
 | 6 | - Tổng kết và ôn tập IAM, AWS CLI và Amazon VPC<br>- Hoàn thành các bài Lab của tuần<br>- Chuẩn bị kiến thức để học Amazon EC2 ở tuần tiếp theo | 03/07/2026 | 03/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Kết quả sau tuần 2
