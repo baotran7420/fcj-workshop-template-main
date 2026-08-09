@@ -226,7 +226,25 @@ Sau khi tham gia sự kiện, tôi rút ra một số bài học quan trọng:
 
 ## Một số hình ảnh khi tham gia sự kiện
 
-*(Chèn hình ảnh chụp tại sự kiện hoặc ảnh chụp màn hình buổi livestream/workshop vào phần này.)*
+
+
+### Hình 1
+
+>![Voice AI Architecture](/images/4.1.1.png)
+
+> *Hình 1. Kiến trúc tổng thể của hệ thống Voice AI.*
+
+### Hình 2
+
+>![DevOps Agent](/images/4.1.2.png)
+
+> *Hình 2. Giải pháp DevOps Agent hỗ trợ giám sát và xử lý sự cố.*
+
+### Hình 3
+
+>![Amazon Q and MCP Server](/images/4.1.3.png)
+
+> *Hình 3. Mô hình tích hợp Amazon Q với MCP Server và dữ liệu doanh nghiệp.*
 
 ---
 

@@ -12,6 +12,15 @@ pre: " <b> 2. </b> "
 
 # Phần 1. Giới thiệu dự án
 
+## Thông tin thành viên dự án
+
+| STT | Họ và tên             | Mã số sinh viên | Vai trò       |
+| :-: | --------------------- | --------------- | ------------- |
+|  1  | Nguyễn Thị Thu Hường  | 3122411079      | Trưởng nhóm   |
+|  2  | Trần Quốc Bảo         | 3122411015      | Thành viên    |
+|  3  | Nguyễn Ngọc Thúy Vy   | 3122411256      | Thành viên    |
+
+
 ## 1.1 Bối cảnh
 
 Sự phát triển mạnh mẽ của **Trí tuệ nhân tạo (Artificial Intelligence - AI)**, đặc biệt là các **Mô hình ngôn ngữ lớn (Large Language Models - LLMs)**, đang tạo ra nhiều thay đổi trong lĩnh vực giáo dục. Các hệ thống AI có khả năng hỗ trợ người học tìm kiếm thông tin, giải thích kiến thức và tương tác với tài liệu bằng ngôn ngữ tự nhiên, góp phần nâng cao hiệu quả học tập.

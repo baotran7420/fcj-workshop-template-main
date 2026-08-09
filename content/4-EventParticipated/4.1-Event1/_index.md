@@ -226,7 +226,25 @@ After joining the event, I drew several important lessons:
 
 ## Some event photos
 
-*(Insert event photos or screenshots from the livestream/workshop here.)*
+
+
+### Figure 1
+
+>![Voice AI Architecture](/images/4.1.1.png)
+
+> *Figure 1. Overview of the Voice AI system architecture.*
+
+### Figure 2
+
+>![DevOps Agent](/images/4.1.2.png)
+
+> *Figure 2. DevOps Agent solution for system monitoring and incident handling.*
+
+### Figure 3
+
+>![Amazon Q and MCP Server](/images/4.1.3.png)
+
+> *Figure 3. Integration of Amazon Q with MCP Server and enterprise data.*
 
 ---
 

@@ -136,7 +136,7 @@ Team Six Piller presented an AI solution for detecting suspicious financial tran
 
 ---
 
-## 7. Lessons Learned
+## Lessons Learned
 
 After attending the event, I gained several valuable lessons:
 
@@ -149,19 +149,26 @@ After attending the event, I gained several valuable lessons:
 
 ---
 
-## 8. Event Photos
+## Event Images
 
-## 8. Event Photos
+### Figure 1
 
-![Opening Session](event2-1.png)
+>![Program Opening](/images/4.2.1.png)
 
-![Project Presentation](event2-2.png)
+>*Figure 1. Poster of the FCAJ x Agentic AI Build Week event.*
 
-![Group Photo](event2-3.png)
+### Figure 2
 
+>![Teams Presenting Their Projects](/images/4.2.2.png)
+
+>*Figure 2.1. Teams introducing and presenting their Agentic AI solutions.*
+
+>![Teams Presenting Their Projects](/images/4.2.3.png)
+
+>*Figure 2.2. Teams introducing and presenting their Agentic AI solutions.*
 ---
 
-## 9. Conclusion
+## Conclusion
 
 The **FCAJ x Agentic AI Build Week Showcase** was an inspiring event that provided valuable insights into the development of real-world Agentic AI applications. Through the presentations and experience-sharing sessions, I gained a deeper understanding of how AI solutions are designed, developed, and deployed to solve practical business challenges.
 

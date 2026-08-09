@@ -10,7 +10,18 @@ pre: " <b> 2. </b> "
 
 ## An Intelligent Document-Based Learning Assistant Platform Deployed on AWS
 
+
+
 # Part 1. Project Introduction
+
+## Project Team Information
+
+| No. | Full Name | Student ID | Role |
+|:---:|---|---|---|
+| 1 | Nguyễn Thị Thu Hường | 3122411079 | Team Leader |
+| 2 | Trần Quốc Bảo | 3122411015 | Team Member |
+| 3 | Nguyễn Ngọc Thúy Vy | 3122411256 | Team Member |
+
 
 ## 1.1 Background
 

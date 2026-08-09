@@ -169,22 +169,22 @@ Ngoài việc học hỏi về mặt kỹ thuật, tôi còn có cơ hội lắn
 
 ---
 
-## 8. Một số hình ảnh khi tham gia sự kiện
+## Một số hình ảnh khi tham gia sự kiện
+### Hình 1
+>![Khai mạc chương trình](/images/4.2.1.png)
 
-![Khai mạc chương trình](image1.jpg)
+>*Hình 1. Poster sự kiện FCAJ x Agentic AI Build Week.*
 
-*Hình 1. Phiên khai mạc sự kiện FCAJ x Agentic AI Build Week.*
+### Hình 2 
+>![Các nhóm trình bày dự án](/images/4.2.2.png)
 
-![Các nhóm trình bày dự án](image2.png)
+>*Hình 2.1 Các nhóm giới thiệu và trình bày các giải pháp Agentic AI.*
 
-*Hình 2. Các nhóm giới thiệu và trình bày các giải pháp Agentic AI.*
-
-![Chụp ảnh lưu niệm](image3.jpg)
-
-*Hình 3. Hình ảnh lưu niệm tại sự kiện FCAJ x Agentic AI Build Week.*
+>![Các nhóm trình bày dự án](/images/4.2.3.png)
+>*Hình 2.2 Các nhóm giới thiệu và trình bày các giải pháp Agentic AI.*
 
 ---
 
-## 9. Tổng kết
+## Tổng kết
 
 FCAJ x Agentic AI Build Week không chỉ là buổi tổng kết các dự án sau quá trình Build Week mà còn là cơ hội để cộng đồng cùng chia sẻ kinh nghiệm, học hỏi lẫn nhau và cập nhật những xu hướng mới về Agentic AI. Thông qua các phần trình bày của các nhóm và những chia sẻ từ chuyên gia AWS, tôi đã học được nhiều kiến thức về phát triển sản phẩm AI, cách giải quyết bài toán thực tế và quy trình xây dựng một MVP trong thời gian ngắn. Đây là một trải nghiệm bổ ích, giúp tôi có thêm động lực để tiếp tục học tập, nghiên cứu và phát triển các dự án AI trong tương lai.
