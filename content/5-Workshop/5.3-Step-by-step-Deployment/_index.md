@@ -13,7 +13,7 @@ The deployment steps are organized in the recommended sequence to ensure a smoot
 
 ## Contents
 
-This workshop consists of the following deployment steps:
+
 
 ### [1. Infrastructure Setup](./5.3.1-infrastructure-setup)
 

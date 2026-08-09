@@ -15,8 +15,6 @@ Các bước được sắp xếp theo đúng trình tự triển khai thực t�
 
 ## Nội dung
 
-Workshop này bao gồm các bước triển khai sau:
-
 ###   [1. Thiết lập hạ tầng](./5.3.1-infrastructure-setup)
 
 - Tạo Key Pair.
