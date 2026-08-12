@@ -16,12 +16,12 @@ Bên cạnh những kết quả đạt được, quá trình thực hiện cũng
 
 Nội dung Reflection được chia thành hai phần chính:
 
-### [1. Những khó khăn gặp phải ](./5.6.1-challenges)
+### [1. Những khó khăn gặp phải ](./5.6.1-challenges-encountered)
    - Các vấn đề phát sinh trong quá trình triển khai.
    - Nguyên nhân và cách nhóm xử lý.
    - Những kinh nghiệm rút ra từ quá trình thực hiện.
 
-### [2. Hướng tối ưu trong tương lai ](./5.6.2-future-enhancements)
+### [2. Hướng tối ưu trong tương lai ](./5.6.2-lessons-learned-future-improvements)
    - Các hướng cải tiến kiến trúc hệ thống.
    - Khả năng mở rộng và nâng cao tính sẵn sàng.
    - Định hướng phát triển hệ thống từ MVP lên môi trường Production.

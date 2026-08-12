@@ -16,12 +16,12 @@ In addition to the achievements, the implementation process also involved severa
 
 The Reflection section is divided into two main parts:
 
-### [1. Challenges](./5.6.1-challenges)
+### [1. Challenges](./5.6.1-challenges-encountered)
    - Issues encountered during the deployment process.
    - The causes of these issues and how they were addressed.
    - Lessons learned from the implementation process.
 
-### [2. Future Enhancements](./5.6.2-future-enhancements)
+### [2. Future Enhancements](./5.6.2-lessons-learned-future-improvements)
    - Potential improvements to the system architecture.
    - Scalability and high-availability improvements.
    - Future directions for evolving the system from an MVP to a Production environment.
