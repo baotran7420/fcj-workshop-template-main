@@ -15,7 +15,7 @@ Through these events, I not only kept up to date with new technologies but also 
 ## [Event 1](4.1-Event1)
 
 - **Event Name:** FCAJ Community Day - June 2026
-- **Time:** 09:00, **June 27, 2026**
+- **Time:** 09:00 – 12:00, **June 27, 2026**
 - **Location:** **26th Floor, Bitexco Building, 02 Hai Trieu Street, Sai Gon Ward, Ho Chi Minh City**
 - **Role:** Participant
 
@@ -28,7 +28,7 @@ Through this event, I gained a better understanding of Voice AI architecture, ho
 ## [Event 2](4.2Event2)
 
 - **Event Name:** FCAJ x Agentic AI Build Week Showcase
-- **Time:** 09:00, **July 25, 2026**
+- **Time:** 09:00 – 12:00, **July 25, 2026**
 - **Location:** **26th Floor, Bitexco Building, 02 Hai Trieu Street, Sai Gon Ward, Ho Chi Minh City**
 - **Role:** Participant
 
@@ -41,7 +41,7 @@ Through this event, I was introduced to various Agentic AI solutions applied to 
 ## [Event 3](4.3-Event3)
 
 - **Event Name:** AgentForge Workshop – Day 2: Personalization, Evaluation & Optimization
-- **Time:** 09:00 – 11:00, **August 8, 2026**
+- **Time:** 09:00 – 12:00, **August 8, 2026**
 - **Location:** **26th Floor, Bitexco Building, 02 Hai Trieu Street, Sai Gon Ward, Ho Chi Minh City**
 - **Role:** Participant
 

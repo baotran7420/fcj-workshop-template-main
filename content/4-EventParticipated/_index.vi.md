@@ -14,7 +14,7 @@ Thông qua các sự kiện này, mình không chỉ được cập nhật nhữ
 ## [Event 1](4.1-Event1)
 
 - **Tên sự kiện:** FCAJ Community Day - June 2026
-- **Thời gian:** 09:00, ngày **27/06/2026**
+- **Thời gian:** 09:00 – 12:00, ngày **27/06/2026**
 - **Địa điểm:** **Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh**
 - **Vai trò trong sự kiện:** Người tham dự
 
@@ -27,7 +27,7 @@ Thông qua sự kiện, mình đã hiểu rõ hơn về kiến trúc Voice AI, c
 ## [Event 2](4.2-Event2)
 
 - **Tên sự kiện:** FCAJ x Agentic AI Build Week Showcase
-- **Thời gian:** 09:00, ngày **25/07/2026**
+- **Thời gian:** 09:00 – 12:00, ngày **25/07/2026**
 - **Địa điểm:** **Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh**
 - **Vai trò trong sự kiện:** Người tham dự
 
@@ -40,7 +40,7 @@ Qua sự kiện, mình được tiếp cận nhiều giải pháp Agentic AI ứ
 ## [Event 3](4.3-Event3)
 
 - **Tên sự kiện:** AgentForge Workshop – Day 2: Personalization, Evaluation & Optimization
-- **Thời gian:** 09:00 – 11:00, ngày **08/08/2026**
+- **Thời gian:** 09:00 – 12:00, ngày **08/08/2026**
 - **Địa điểm:** **Tầng 26, Tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, Thành phố Hồ Chí Minh**
 - **Vai trò trong sự kiện:** Người tham dự
 
