@@ -20,7 +20,7 @@ chapter: false
 
 &emsp; **Major:** Information Technology
 
-&emsp; **Class:** 
+&emsp; **Class:** DCT122C4
 
 &emsp; **Internship Company:** Amazon Web Services Viet Nam Company Limited
 
